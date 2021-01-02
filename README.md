@@ -38,12 +38,10 @@
 
 ![screenshot](https://i.postimg.cc/G2RP9xPV/desktop.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project looks very simple, but it's help me understand responsive degine, deference between em vs rem. 
+I host this site in [Neltify] (https://404-page-not-found-challenge-romel.netlify.app/) and this my firsttime deploy any website live.
+With doing this project I increase my HTML and CSS knowledge.
+I will do other challenge as well.
 
 ### Built With
 
@@ -64,12 +62,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [this youtube video help me understand responcive design](https://www.youtube.com/watch?v=QA0XpGhiz5w&t=7303s)
+- [this youtube video helps me understand em vs rem](https://www.youtube.com/watch?v=_-aDOAMmDHI)
+
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/romelmahmud)
+- Twitter [@your-twitter](https://twitter.com/romel_mahmud)
