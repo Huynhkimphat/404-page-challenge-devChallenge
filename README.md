@@ -38,10 +38,7 @@
 
 ![screenshot](https://i.postimg.cc/G2RP9xPV/desktop.jpg)
 
-This project looks very simple, but it's help me understand responsive degine, deference between em vs rem. 
-I host this site in [Neltify](https://404-page-not-found-challenge-romel.netlify.app/) and this my firsttime deploy any website live.
-With doing this project I increase my HTML and CSS knowledge.
-I will do other challenge as well.
+This project looks very simple, but it's helped me understand responsive design, the difference between em vs rem. I host this site in [Neltify](https://404-page-not-found-challenge-romel.netlify.app/) and this my first time deploy any website live. By doing this project I increase my HTML and CSS knowledge. I will do other challenges as well.
 
 ### Built With
 
