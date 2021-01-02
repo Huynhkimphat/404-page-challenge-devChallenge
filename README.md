@@ -62,7 +62,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [this youtube video help me understand responcive design](https://www.youtube.com/watch?v=QA0XpGhiz5w&t=7303s)
+- [this youtube video help me understand responsive design](https://www.youtube.com/watch?v=QA0XpGhiz5w&t=7303s)
 - [this youtube video helps me understand em vs rem](https://www.youtube.com/watch?v=_-aDOAMmDHI)
 
 
